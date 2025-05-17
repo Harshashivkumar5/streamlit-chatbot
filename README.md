@@ -1,2 +1,2 @@
 # streamlit-chatbot
-This is the chatbot which will be hosted on Streamlit sharing
+This is the chatbot with memory which will be hosted on Streamlit sharing
